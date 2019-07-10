@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 	"image/jpeg"
-	"imageproc/ioimg"
-	"imageproc/procimg"
+	"github.com/ikeponsu/imageproc/ioimg"
+	"github.com/ikeponsu/imageproc/procimg"
 	"os"
 	"path/filepath"
 	"strconv"
