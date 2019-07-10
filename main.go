@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 	"image/jpeg"
-	"img-test/ioimg"
-	"img-test/procimg"
+	"imageproc/ioimg"
+	"imageproc/procimg"
 	"os"
 	"path/filepath"
 	"strconv"
